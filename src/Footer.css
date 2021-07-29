@@ -1,0 +1,28 @@
+.footer {
+  background-color: #232f3e;
+  position: relative;
+  bottom: 0;
+  z-index: 1;
+  color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+}
+
+.footer__container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.footer__container > div {
+  margin: 50px 0px;
+}
+
+.footer__title {
+  margin-bottom: 10px;
+  font-weight: 800;
+  font-size: 20px;
+}
+
+.footer__all > p {
+  margin-bottom: 8px;
+}
