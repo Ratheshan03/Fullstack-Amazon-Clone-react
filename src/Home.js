@@ -12,6 +12,26 @@ function Home() {
       />
       <div className="home__row">
         <Product
+          id={6}
+          title={
+            "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED Computer Monitor, 3840 x 1080p Resolution, 1ms Response, FreeSync 2 with HDR"
+          }
+          price={999.99}
+          image="https://m.media-amazon.com/images/I/81Zt42ioCgL._AC_UY218_.jpg"
+          rating={4}
+        />
+        <Product
+          id={2}
+          title={
+            "Apple MacBook Air (13-inch, 8GB RAM, 256GB SSD Storage) - Space Gray (Latest Model)"
+          }
+          price={949.99}
+          image="https://images-na.ssl-images-amazon.com/images/I/71k3fJh5EwL._AC_SL1500_.jpg"
+          rating={5}
+        />
+      </div>
+      <div className="home__row">
+        <Product
           id="12321341"
           title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
           price={11.96}
@@ -24,6 +44,15 @@ function Home() {
           price={129.95}
           rating={5}
           image="https://images-na.ssl-images-amazon.com/images/I/811XCRw3UmL._AC_SL1500_.jpg"
+        />
+        <Product
+          id={5}
+          title={
+            "Beats Solo3 Wireless On-Ear Headphones - Apple W1 Headphone Chip, Class 1 Bluetooth, 40 Hours Of Listening Time - Black (Latest Model)"
+          }
+          price={179.0}
+          image="https://m.media-amazon.com/images/I/51QxA-98Q+L._AC_UL320_.jpg"
+          rating={4}
         />
       </div>
 
@@ -76,11 +105,11 @@ function Home() {
           image="https://www.nautilus.com/dw/image/v2/AAYW_PRD/on/demandware.static/-/Sites-nautilus-master-catalog/default/dw83947c0c/images/nautilus/treadmills/t618/100647/nautilus-treadmill-t618-1.jpg?sw=700&sh=700&sm=fit"
         />
         <Product
-          id="983431341"
-          title="Apple 13' MacBook Pro 2020 - M1 Chip | Space Gray (512-SSD)"
-          price={1299.99}
-          rating={5}
-          image="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-spacegray-select-202011?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1613672894000"
+          id={1}
+          title="Dell Inspiron 27 AIO, 27 inch, FHD Touchscreen, Intel Core i7-10510U, NVIDIA MX110 2GB, 1TB HDD + 512GB SSD Storage, 16GB RAM, i7790-7388SLV-PUS, 15-15.99 inches"
+          price={1333.98}
+          image="https://images-na.ssl-images-amazon.com/images/I/717mmm0oqnL._AC_SL1500_.jpg"
+          rating={4}
         />
       </div>
       <div className="home__row">
