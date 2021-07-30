@@ -1,7 +1,7 @@
 # Fullstack Amazon Clone 🔥
 ▶️ User Authentication (Email authentication using Firebase)
 ▶️ Stripe Payment Functionality
-▶️ Overall Responsive UI design
+▶️ User friendly and responsive UI design
 
 
 # Getting Started with Create React App
