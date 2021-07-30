@@ -1,7 +1,7 @@
 # Fullstack Amazon Clone 🔥
 ▶️ User Authentication (Email authentication using Firebase).\
 ▶️ Stripe Payment Functionality.\
-▶️ Add to Basket, Remove items from basket checkout page and other functionalitites.\
+▶️ Add to Basket, Removing items from basket, Checkout page and other common E-commerce website functionalitites.\
 ▶️ User friendly and responsive UI design.
 
 
